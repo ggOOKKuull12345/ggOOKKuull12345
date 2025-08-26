@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Gokul  
+A B.Tech CSE Student & Aspiring Developer 🚀
 
-<!--
-**ggOOKKuull12345/ggOOKKuull12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React & Full Stack Development**  
+- 🎯 Goal: Become a Software Engineer / Circle Officer  
+- ⚡ Fun fact: I like building clone websites & solving real-world problems  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML | CSS | JavaScript  
+- React | Node.js  
+- C | C++ | Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/gokulgari/
+- Email: gokulgari120@email.com
