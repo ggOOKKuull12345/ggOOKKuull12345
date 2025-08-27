@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 <h3 align="center">A B.Tech CSE Student & Aspiring Developer 🚀</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=500&lines=I+am+a+Student;I+am+a+Coder;I+am+a+Developer;Aspiring+Circle+Officer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🌱 About Me  
