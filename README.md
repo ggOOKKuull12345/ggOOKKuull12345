@@ -9,7 +9,7 @@
 
 ### 🌱 About Me  
 - 🔭 Currently learning **React.js** & **Full Stack Development**  
-- 🎯 **Goal:** To become a **Software Engineer** / **Circle Officer**  
+- 🎯 **Goal:** To become a **Software Engineer** 
 - ⚡ **Fun fact:** I love building **clone websites** & solving **real-world problems**  
 
 ---
