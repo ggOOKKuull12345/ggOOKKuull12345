@@ -45,9 +45,14 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulgari&show_icons=true&theme=radical&cache_seconds=1800" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulgari&layout=compact&theme=radical&cache_seconds=1800" alt="languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulgari&show_icons=true&theme=radical&cache_seconds=7200" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulgari&layout=compact&theme=radical&cache_seconds=7200" alt="languages" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gokulgari&theme=radical&border_radius=10" alt="streak stats" height="160"/>
+</p>
+
 
 ---
 
